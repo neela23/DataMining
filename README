@@ -1,0 +1,7 @@
+1. absa_code.py - code for abstarct based sentiment analysis. Creates a csv file that is used for regression and svm
+2. Regression.R - code for Linear Regression, SVR and Error Calculation.
+3. Scores.csv - contains 1000 records out of that 900 were used for training and 100 for testing
+4. postive_words.txt and negative_words.txt - text file with commonly used and misspelt words in reviews
+5. data.py - used for converting json to csv and using only useful reviews
+6. Data Mining Project Presentation.pdf - Project presentation
+7. projectreport.pdf - Final report of project
